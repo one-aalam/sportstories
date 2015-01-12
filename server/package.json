@@ -1,0 +1,31 @@
+{
+  "name": "sportstories",
+  "version": "1.0.0",
+  "description": "API server for SportStories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/one-aalam/sportstories.git"
+  },
+  "keywords": [
+    "Server",
+    "Restify",
+    "API",
+    "SportsStories"
+  ],
+  "author": "Aftab Alam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/one-aalam/sportstories/issues"
+  },
+  "homepage": "https://github.com/one-aalam/sportstories",
+  "dependencies": {
+    "bcrypt": "^0.8.0",
+    "mongoose": "^3.8.21",
+    "morgan": "^1.5.1",
+    "restify": "^2.8.4"
+  }
+}
